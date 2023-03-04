@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scootu
 - 👀 I’m interested in web developing   
-- 🌱 I’m currently learning MERN STACK technologie (html css javascript React node js) with a lotof projects !!!
+- 🌱 I’m currently learning MERN STACK technologie (html css javascript React node js) with a lot of projects !!!
 - 📫 How to reach me aneshamdaoui2004@gmail.com
 
 <!---
